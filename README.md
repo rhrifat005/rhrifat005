@@ -2,7 +2,7 @@
 
 
 ## Hi there, I'm Rifat👋
-A passionate MERN-Stack Developer 🚀 
+(https://www.linkedin.com/in/rhrifat005/overlay/background-image/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+MD+Rifat;I+am+a+MERN+Stack+Developer;I+am+a+Software+Enginner)](https://git.io/typing-svg)
 
