@@ -11,12 +11,7 @@ A passionate MERN-Stack Developer 🚀
 
 - 💻 &nbsp;  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=cplusplus)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-
-- 💻 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
 
 - 🌐 &nbsp; 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
