@@ -1,7 +1,7 @@
 
 
 
-## Hi there, I'm [Abdullah AL Habib](https://habib.info.bd) 👋
+## Hi there, I'm [MD RIFAT] 👋
 A passionate Software Developer 🚀 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Abdullah+AL+Habib;I+am+a+Software+Enginner)](https://git.io/typing-svg)
