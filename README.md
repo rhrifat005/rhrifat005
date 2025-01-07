@@ -1,7 +1,7 @@
 
 
 
-## Hi there, I'm RIFAT👋
+## Hi there, I'm Rifat👋
 A passionate MERN-Stack Developer 🚀 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+MD+Rifat;I+am+a+MERN+Stack+Developer;I+am+a+Software+Enginner)](https://git.io/typing-svg)
@@ -12,6 +12,8 @@ A passionate MERN-Stack Developer 🚀
 - 💻 &nbsp;  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=cplusplus)
 ![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+
+- 💻 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
