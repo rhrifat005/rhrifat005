@@ -2,7 +2,7 @@
 
 
 ## Hi there, I'm Rifat👋
-(https://www.linkedin.com/in/rhrifat005/overlay/background-image/)
+(https://media.licdn.com/dms/image/v2/D5616AQGcHjjtd2v3kg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736276240225?e=1741824000&v=beta&t=n6LkvWkWNuZ6y6jyY0rUIneW3hdIxjWcMpFObU4m3VE)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+MD+Rifat;I+am+a+MERN+Stack+Developer;I+am+a+Software+Enginner)](https://git.io/typing-svg)
 
