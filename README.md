@@ -1,37 +1,52 @@
-
-
-
-## Hi there, I'm Rifat👋
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQGcHjjtd2v3kg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736276240225?e=1741824000&v=beta&t=n6LkvWkWNuZ6y6jyY0rUIneW3hdIxjWcMpFObU4m3VE)
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<h1 align="center">Hi there👋 I'm Rifat</h1>
+<h3 align="center">A passionate MERN-Stack Developer from Bangladesh</h3>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat;I+am+a+MERN-Stack+Developer;I+am+a+Software+Engineer)](https://git.io/typing-svg)
+  
+</div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+MD+Rifat;I+am+a+MERN+Stack+Developer;I+am+a+Software+Enginner)](https://git.io/typing-svg)
+<img align = "right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=computerscience41&label=Profile%20views&color=0e75b6&style=flat" alt="computerscience41" /> </p>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=cplusplus)
+- 💻 &nbsp; 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
 
 - 🌐 &nbsp; 
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 - 🛢 &nbsp; 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
 
-- 🔧 &nbsp; 
+- 🔧 &nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+<br>
 
-Here are some ideas to get you started:
+<h3>🛠 Running Tech</h3>
+- 🔭 I’m currently Studying **Computer science and engineering**
 
-- 🌱 I’m currently learning on python & Django 
+- 🌱 I’m currently learning **Python And Django**
+
+- 👯 I’m looking to collaborate on **Github**
+
+- ⚡ Fun fact **I am funny😊**
 
 
 <br/>
