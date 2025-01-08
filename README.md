@@ -40,7 +40,7 @@
 <br>
 
 <h3>🛠 Running Tech</h3>
-- 🔭 I’m currently Studying **Computer science and engineering**
+- 🔭 I’m currently Studying **Computer Science and Engineering**
 
 - 🌱 I’m currently learning **Python And Django**
 
