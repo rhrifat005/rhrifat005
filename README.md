@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQGcHjjtd2v3kg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736276240225?e=1741824000&v=beta&t=n6LkvWkWNuZ6y6jyY0rUIneW3hdIxjWcMpFObU4m3VE)
+
 
 <h1 align="center">Hi there👋 I'm Rifat</h1>
 <h3 align="center">A passionate MERN-Stack Developer from Bangladesh</h3>
